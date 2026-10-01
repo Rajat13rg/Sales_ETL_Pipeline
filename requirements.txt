@@ -1,0 +1,4 @@
+pyspark
+pandas
+mysql-connector-python
+python-dotenv

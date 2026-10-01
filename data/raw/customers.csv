@@ -1,0 +1,14 @@
+customer_id,name,email,city,state
+C001,Rahul Sharma,rahul.sharma@gmail.com,Indore,Madhya Pradesh
+C002,Priya Singh,priya.singh@gmail.com,Bhopal,Madhya Pradesh
+C003,Aman Verma,aman.verma@gmail.com,Delhi,Delhi
+C004,,rohit.kumar@gmail.com,Mumbai,Maharashtra
+C005,Neha Gupta,neha.gupta@gmail.com,Indore,Madhya Pradesh
+C006,Arjun Mehta,arjun.mehta@gmail.com,Pune,Maharashtra
+C007,Sneha Patel,sneha.patel@gmail.com,Ahmedabad,Gujarat
+C008,Vikas Jain,,Jaipur,Rajasthan
+C009,Pooja Sharma,pooja.sharma@gmail.com,Indore,Madhya Pradesh
+C010,Ravi Kumar,ravi.kumar@gmail.com,Bangalore,Karnataka
+C005,Neha Gupta,neha.gupta@gmail.com,Indore,Madhya Pradesh
+C011,Ankit Rao,ankit.rao@gmail.com,,Telangana
+C012,  Meena Joshi  ,meena.joshi@gmail.com,  Mumbai  ,Maharashtra
